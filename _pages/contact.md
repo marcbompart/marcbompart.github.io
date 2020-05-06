@@ -7,7 +7,7 @@ email: contact@cabinetbompart.fr
 <table>
   <tr>
     <td>Téléphone</td>
-    <td>06 71 25 59 31</td>
+    <td><a href="tel:+33671255931">06 71 25 59 31</a></td>
   </tr>
   <tr>
     <td>E-mail</td>
