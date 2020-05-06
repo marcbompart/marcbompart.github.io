@@ -36,6 +36,9 @@ social:
 
 footer:
   links:
+    - label: "Contact"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:contact@cabinetbompart.fr"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/marc-bompart-5634925"
