@@ -37,7 +37,7 @@ social:
 footer:
   links:
     - label: "Contact"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fab fa-fw fa-envelope-square"
       url: "mailto:contact@cabinetbompart.fr"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
