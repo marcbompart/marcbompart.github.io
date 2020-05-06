@@ -15,10 +15,18 @@ title: "Présentation"
     Conseil en propriété industrielle<br/>
     Mandataire agréée près l’Office Européen des Brevets<br/>
   </p>
-  <p><i>Formation</i>: Doctorat ès sciences en matériaux à l’Université Technologique de Compiègne (UTC) et à l’Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris (ESPCI), diplômé du Centre d'Etudes Internationales de la Propriété Intellectuelle (CEIPI) à l’Université de Strasbourg<br/>
-  <i>Langues</i>: Anglais, Français</p>
+  <table>
+    <tr>
+      <td><i class="fas fa-university"></i></td>
+      <td>Doctorat ès sciences en matériaux à l’Université Technologique de Compiègne (UTC) et à l’Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris (ESPCI), diplômé du Centre d'Etudes Internationales de la Propriété Intellectuelle (CEIPI) à l’Université de Strasbourg</td>
+    </tr>
+    <tr>
+      <td><i class="fas fa-language"></i></td>
+      <td>Anglais, Français</td>
+    </tr>
+  </table>
   <p>Après un doctorat en matériaux suivit d’une année de recherche pour un acteur majeur de l’énergie, j’ai débuté ma carrière dans la propriété intellectuelle en 2012 au sein d’une entreprise leader dans le domaine de la chimie des matériaux.<br/>
-  J’ai ensuite travaillé pour des cabinets pendant six ans spécifiquement dans le domaine de la mécanique générale, tel que la construction, l’emballage, la mécatronique, les articles de sport et de loisirs, les dispositifs médicaux, l’horlogerie et l’automobile.</p>
+  J’ai ensuite travaillé pour des cabinets pendant six ans spécifiquement dans le domaine de la mécanique générale, tel que la construction, l’emballage, la mécatronique, les articles de sport et de loisirs, les dispositifs médicaux, l’horlogerie et l’automobile</p>
 </p>
 
 <p>
