@@ -15,14 +15,14 @@ title: "Présentation"
     Conseil en propriété industrielle<br/>
     Mandataire agréée près l’Office Européen des Brevets<br/>
   </p>
-  <table style="border: none">
+  <table>
     <tr>
-      <td><i class="fas fa-university fa-2x"></i></td>
-      <td>Doctorat ès sciences en matériaux à l’Université Technologique de Compiègne (UTC) et à l’Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris (ESPCI), diplômé du Centre d'Etudes Internationales de la Propriété Intellectuelle (CEIPI) à l’Université de Strasbourg</td>
+      <td style="border: none"><i class="fas fa-university fa-2x"></i></td>
+      <td style="border: none">Doctorat ès sciences en matériaux à l’Université Technologique de Compiègne (UTC) et à l’Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris (ESPCI), diplômé du Centre d'Etudes Internationales de la Propriété Intellectuelle (CEIPI) à l’Université de Strasbourg</td>
     </tr>
     <tr>
-      <td><i class="fas fa-language fa-2x"></i></td>
-      <td>Anglais, Français</td>
+      <td style="border: none"><i class="fas fa-language fa-2x"></i></td>
+      <td style="border: none">Anglais, Français</td>
     </tr>
   </table>
   <p>Après un doctorat en matériaux suivit d’une année de recherche pour un acteur majeur de l’énergie, j’ai débuté ma carrière dans la propriété intellectuelle en 2012 au sein d’une entreprise leader dans le domaine de la chimie des matériaux.<br/>
