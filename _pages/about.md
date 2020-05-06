@@ -15,13 +15,13 @@ title: "Présentation"
     Conseil en propriété industrielle<br/>
     Mandataire agréée près l’Office Européen des Brevets<br/>
   </p>
-  <table>
+  <table style="border: none">
     <tr>
-      <td><i class="fas fa-university"></i></td>
+      <td><i class="fas fa-university fa-2x"></i></td>
       <td>Doctorat ès sciences en matériaux à l’Université Technologique de Compiègne (UTC) et à l’Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris (ESPCI), diplômé du Centre d'Etudes Internationales de la Propriété Intellectuelle (CEIPI) à l’Université de Strasbourg</td>
     </tr>
     <tr>
-      <td><i class="fas fa-language"></i></td>
+      <td><i class="fas fa-language fa-2x"></i></td>
       <td>Anglais, Français</td>
     </tr>
   </table>
