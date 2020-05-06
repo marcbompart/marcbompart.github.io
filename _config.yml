@@ -37,6 +37,9 @@ social:
 footer:
   links:
     - label: "Contact"
+      icon: "fab fa-fw fa-phone-square-alt"
+      url: "tel:+33671255931"
+    - label: "Email"
       icon: "fab fa-fw fa-envelope-square"
       url: "mailto:contact@cabinetbompart.fr"
     - label: "Linkedin"
