@@ -8,11 +8,15 @@
 @import "minimal-mistakes"; // main partials
 
 .page__hero--overlay {
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 .page__footer footer {
-  margin-top: 1em;
-  padding-bottom: 1em;
+  margin-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+.page__lead {
+  margin: 0;
 }
