@@ -16,6 +16,7 @@
 
 title: Cabinet Bompart
 locale: fr-FR
+lang: fr_FR
 email: contact@cabinetbompart.fr
 name: "Marc Bompart"
 description: >- # this means to ignore newlines until "baseurl:"
