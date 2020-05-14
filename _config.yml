@@ -41,9 +41,6 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/marc-bompart-5634925"
-    - label: "Sitemap"
-      icon: "fas fa-fw fa-sitemap"
-      url: "/sitemap.xml"
 
 include:
   - _pages
