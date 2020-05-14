@@ -16,14 +16,8 @@
 
 title: Cabinet Bompart
 locale: fr-FR
-lang: fr_FR
 email: contact@cabinetbompart.fr
 name: "Marc Bompart"
-description: >- # this means to ignore newlines until "baseurl:"
-  Conseil en propriété industrielle en brevets.
-  Mandataire en brevets Europeens.
-  French and European patent attorney.
-  74 Annecy. Haute-Savoie.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.cabinetbompart.fr" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/images/logo.png"
@@ -56,6 +50,7 @@ defaults:
       path: ""
     values:
       layout: "splash"
+      description: "Conseil en propriété industrielle en brevets. Mandataire en brevets Europeens. French and European patent attorney. Annecy (74) Haute-Savoie."
       excerpt: "Conseil en propriété industrielle en brevets<br/>Mandataire en brevets Europeens<br/>French and European patent attorney"
       header:
         overlay_color: "#7C77B9"
