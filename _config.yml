@@ -53,6 +53,7 @@ defaults:
       description: "Conseil en propriété industrielle en brevets. Mandataire en brevets Europeens. French and European patent attorney. Annecy (74) Haute-Savoie."
       excerpt: "Conseil en propriété industrielle en brevets<br/>Mandataire en brevets Europeens<br/>French and European patent attorney"
       header:
+        overlay_image: "/assets/images/bridge.png"
         overlay_color: "#7C77B9"
         overlay_filter: "0.5"
         show_overlay_excerpt: true
