@@ -20,7 +20,8 @@ email: contact@cabinetbompart.fr
 name: "Marc Bompart"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.cabinetbompart.fr" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/images/logo.png"
+logo: "/assets/images/logo.svg"
+masthead_title: " "
 
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -54,7 +55,7 @@ defaults:
       excerpt: "Conseil en propriété industrielle en brevets<br/>Mandataire en brevets Europeens<br/>French and European patent attorney"
       header:
         overlay_image: "/assets/images/leonardo.png"
-        overlay_filter: "rgba(124, 119, 185, 0.5)"
+        overlay_filter: "rgba(147, 116, 138, 0.5)"
         show_overlay_excerpt: true
 
 plugins:
