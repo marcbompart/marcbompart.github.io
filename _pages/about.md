@@ -5,7 +5,7 @@ title: "Présentation"
 
 <p>
   <h1>{{site.title}}</h1>
-  Jeune Cabinet ouvert en 2020, localisé en Haute-Savoie, pour le moment à Fillière dans une commune de l’agglomération du Grand Annecy.<br/>
+  Cabinet localisé en Haute-Savoie, pour le moment à Fillière dans une commune de l’agglomération du Grand Annecy.<br/>
   Je me déplace avec plaisir pour vous rencontrer, je peux également vous accueillir à mon domicile.<br/>
 </p>
 
