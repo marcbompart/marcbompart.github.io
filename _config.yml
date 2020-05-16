@@ -54,7 +54,6 @@ defaults:
       excerpt: "Conseil en propriété industrielle en brevets<br/>Mandataire en brevets Europeens<br/>French and European patent attorney"
       header:
         overlay_image: "/assets/images/leonardo.png"
-        overlay_color: "#7C77B9"
         overlay_filter: "rgba(124, 119, 185, 0.5)"
         show_overlay_excerpt: true
 
