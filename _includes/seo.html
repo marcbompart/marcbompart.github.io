@@ -120,7 +120,7 @@
       "@type": "Organization",
       "legalName": "{{ site.title }}",
       "name": "{{ site.title }}",
-      "description": "{{ page.description }}"
+      "description": "{{ page.description }}",
       "url": {{ '/' | absolute_url | jsonify }}{% if site.logo %},
       "logo": {{ site_og_image | jsonify }}{% endif %}{% if site.social.links %},
       "sameAs": {{ site.social.links | jsonify }}{% endif %},
