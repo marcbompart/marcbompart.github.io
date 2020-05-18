@@ -17,29 +17,33 @@
 title: Cabinet Bompart
 locale: fr-FR
 email: contact@cabinetbompart.fr
+phone:
+  value: "+33671255931"
+  label: "06 71 25 59 31"
+address: 
+  city: "Les Ollières"
+  country: "FR"
+  street: "781G route de Bevillard"
+  postcode: "74370"
+  county: "Haute-Savoie"
 name: "Marc Bompart"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.cabinetbompart.fr" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/images/logo.svg"
-masthead_title: " "
 
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: mint
 
 social:
+  type: "Organization"
   links:
     - "https://www.linkedin.com/in/marc-bompart-5634925"
     - "https://www.inpi.fr/fr/services-et-prestations/annuaire-des-conseils-en-pi-par-region?search_combine=marc+bompart"
+    - "https://www.cncpi.fr/annuaire/rechercher_un_cpi/?mpop=1&act=s&rt=CAB&id=186432"
 
 footer:
   links:
-    - label: "06 71 25 59 31"
-      icon: "fas fa-fw fa-phone-square-alt"
-      url: "tel:+33671255931"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:contact@cabinetbompart.fr"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/marc-bompart-5634925"

@@ -1,21 +1,20 @@
 ---
 permalink: /contact/
 title: "Contact"
-email: contact@cabinetbompart.fr
 ---
 
 <table>
   <tr>
     <td><i class="fas fa-phone fa-2x"></i></td>
-    <td><a href="tel:+33671255931">06 71 25 59 31</a></td>
+    <td><a href="tel:{{site.phone.value}}">{{site.phone.label}}</a></td>
   </tr>
   <tr>
     <td><i class="fas fa-envelope fa-2x"></i></td>
-    <td><a href="mailto:{{page.email}}">{{page.email}}</a></td>
+    <td><a href="mailto:{{site.email}}">{{site.email}}</a></td>
   </tr>
   <tr>
     <td><i class="fas fa-map-marker fa-2x"></i></td>
-    <td>781G route de Bevillard – 74370 LES OLLIERES</td>
+    <td>{{site.address.street}}, {{site.address.postcode}} {{site.address.city}}</td>
   </tr>
 </table>
 

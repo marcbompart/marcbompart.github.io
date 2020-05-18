@@ -4,6 +4,9 @@
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
 
+    <li><a href="tel:{{site.phone.value}}" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-phone-square-alt" aria-hidden="true"></i> {{site.phone.label}}</a></li>
+    <li><a href="mailto:{{site.email}}" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
