@@ -62,6 +62,11 @@ defaults:
         overlay_image: "/assets/images/leonardo.png"
         overlay_filter: "rgba(147, 116, 138, 0.5)"
         show_overlay_excerpt: true
+        
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-TM9FDHFJMH"
 
 plugins:
   - jekyll-sitemap
