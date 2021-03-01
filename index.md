@@ -3,7 +3,7 @@ title: "Brevets - protection de vos inventions"
 ---
 
 <b>{{site.title}}</b> est un cabinet de propriété industrielle spécialisé dans le dépôt, le suivi, l’entretien et la défense des brevets d’invention.<br />
-J’accompagne et conseil tant les PME, les start-ups que les particuliers.<br />
+J’accompagne et conseille tant les PME, les start-ups que les particuliers.<br />
 Je vous apporte une vision claire et pédagogique de la propriété industrielle dans un budget maitrisé.<br />
 Je vous conseille dès le départ dans la protection de vos inventions vers une valorisation de vos actifs.<br />
 
